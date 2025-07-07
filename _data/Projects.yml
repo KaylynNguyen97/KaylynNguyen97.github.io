@@ -2,20 +2,37 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Yelp Sentiment Analysis ([GitHub](https://github.com/KaylynNguyen97/YelpSentimentAnalysis))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Performed sentiment classification using TF-IDF, Bag of Words, and n-Grams
+      - Built and evaluated models including Logistic Regression, SVM, and Random Forest
+      - "Technology Used: Python, scikit-learn, pandas, matplotlib"
+    image: "![](https://i.ibb.co/Sr77y7h/yelp-sentiment.webp)"
+
+  - title: "IMDB Machine Learning ([GitHub](https://github.com/KaylynNguyen97/IMdbMachineLearning))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Applied classification algorithms to predict movie success based on metadata
+      - Conducted feature engineering and model tuning to improve performance
+      - "Technology Used: Python, sklearn, seaborn, Jupyter"
+    image: "![](https://i.ibb.co/m4H7qCP/imdb-ml.webp)"
+
+  - title: "Customer Churn Prediction ([GitHub](https://github.com/KaylynNguyen97/CustomerChurn))"
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Built classification models to predict bank customer churn
+      - Evaluated model performance using ROC AUC, precision, recall, and confusion matrix
+      - "Technology Used: Python, pandas, sklearn, matplotlib"
+    image: "![](https://i.ibb.co/HDxCjBm/churn-model.webp)"
+
+  - title: "Data Design Representation: Dietary Compass ([GitHub](https://github.com/KaylynNguyen97/DataDesignRepresentationDietaryCompass))"
+    description: 
+      - Visualized complex dietary data using effective design principles
+      - Created intuitive charts and infographics to communicate insights clearly
+      - "Technology Used: Python, matplotlib, seaborn, Tableau"
+    image: "![](https://i.ibb.co/JmxG47F/dietary-visual.webp)"
+
+  - title: "Sephora SQL Analysis ([GitHub](https://github.com/KaylynNguyen97/SephoraSQL))"
+    description: 
+      - Conducted SQL-based exploratory analysis on Sephora product reviews and sales
+      - Created queries to derive customer trends, product performance, and pricing insights
+      - "Technology Used: SQL, dbdiagram.io, Excel"
+    image: "![](https://i.ibb.co/fN0hK3s/sephora-sql.webp)"
