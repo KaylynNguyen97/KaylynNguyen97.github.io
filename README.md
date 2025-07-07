@@ -1,14 +1,29 @@
-# 👋 Hi, I'm Kaylyn Nguyen
+# Portfolio
 
-Welcome to my personal website and project portfolio!
+A simple and modern portfolio template that is lightweight, mobile responsive and looks modern. 
 
-I’m currently pursuing my **MS in Business Analytics** at **UC Davis** and bring **5+ years of experience in marketing analytics**—from designing A/B tests and building predictive models to automating reporting pipelines. This site serves as a hub to explore my data projects, resume, and blog-style write-ups on analytics and digital marketing.
+- [Demo](#demo)
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Installation](#installation)
 
-## 🔍 About Me
+### Demo
+[abhn.github.io/portfolio](https://abhn.github.io/portfolio)
 
-- 🎯 Passionate about turning messy data into strategic marketing decisions
-- 🛠 Tools: R, SQL, Python, Tableau, Looker, GA4, R Shiny, Grow, Excel
-- 🧠 Specialties: Data Visualization • Experimental Design • Predictive Modeling • Marketing Performance Optimization
+### Screenshots
+![homepage](tmp/screenshot.jpg?raw=true "Homepage")
 
-[📄 View My Resume (PDF)](./Kaylyn_Nguyen_Resume.pdf)  
-[🔗 Connect on LinkedIn](https://www.linkedin.com/in/kaylyn-nguyen/)
+### Features
+- Single page portfolio made with vanilla CSS and jQuery
+- Sections: Landing, About, Skills (with neat bar graphs), Projects, Contact
+- Smooth scrolling
+- Fully mobile responsive, made with latest CSS3 grid and flexbox, polyfills included
+- Lightweight and easily customizable
+
+### Installation
+- Clone this repository and in the settings, set up Github pages in the setting and optionally a custom domain. The site is live now on `your-username.github.io/portfolio`.
+- In the config variables, add your details and if you use Google Analytics, add your Publisher ID in the `google_analytics` variable.
+- You can add/remove sections from the `_layouts/default.html` file, and then adding the corresponding html file in `_includes/` directory.
+
+### License
+GPL
