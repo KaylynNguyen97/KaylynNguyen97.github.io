@@ -2,20 +2,42 @@
     <section class="section projects" id="projects">
         <div class="full-width">
             <div class="section-heading" id="featured-projects-text">Projects</div>
-            
-                <div class="project-technologies">
 
-                    <a id="featured" class="semi-transparent-button with-border white-button" onclick="selected('featured')">Featured</a>
-                    <a id="all" class="semi-transparent-button with-border white-button" onclick="selected('all')">All</a>
-                    <a id="webdev" class="semi-transparent-button with-border white-button" onclick="selected('webdev')">WebDev</a>
-                    <a id="native" class="semi-transparent-button with-border white-button" onclick="selected('native')">Native</a>
-                    <a id="security" class="semi-transparent-button with-border white-button" onclick="selected('security')">Security</a>
-                    <a id="diy" class="semi-transparent-button with-border white-button" onclick="selected('diy')">DIY</a>
-
-                </div>
+            <div class="project-technologies">
+                <a id="featured" class="semi-transparent-button with-border white-button" onclick="selected('featured')">Featured</a>
+                <a id="all" class="semi-transparent-button with-border white-button" onclick="selected('all')">All</a>
+                <a id="ml" class="semi-transparent-button with-border white-button" onclick="selected('ml')">ML</a>
+                <a id="sql" class="semi-transparent-button with-border white-button" onclick="selected('sql')">SQL</a>
+                <a id="viz" class="semi-transparent-button with-border white-button" onclick="selected('viz')">Viz</a>
+            </div>
 
             <div class="projects-wrapper">
-            <!-- filled in by js -->
+
+                <div class="project-card" data-tags="featured ml">
+                    <h3><a href="https://github.com/KaylynNguyen97/IMdbMachineLearning" target="_blank">🎬 IMDb Movie Success Prediction</a></h3>
+                    <p>Used machine learning techniques to predict IMDb movie ratings based on metadata like genre, director, and runtime. Explored feature engineering, modeling, and evaluation.</p>
+                </div>
+
+                <div class="project-card" data-tags="featured ml">
+                    <h3><a href="https://github.com/KaylynNguyen97/CustomerChurn" target="_blank">📉 Customer Churn Prediction</a></h3>
+                    <p>Built classification models to predict churn using Random Forest, Logistic Regression, and SVM. Evaluated using ROC AUC, precision, and recall for stakeholder reporting.</p>
+                </div>
+
+                <div class="project-card" data-tags="ml viz">
+                    <h3><a href="https://github.com/KaylynNguyen97/YelpSentimentAnalysis" target="_blank">🗣️ Yelp Review Sentiment Analysis</a></h3>
+                    <p>Applied NLP techniques including Bag of Words and TF-IDF to classify sentiment in Yelp reviews. Compared classifiers and visualized results using confusion matrices.</p>
+                </div>
+
+                <div class="project-card" data-tags="viz">
+                    <h3><a href="https://github.com/KaylynNguyen97/DataDesignRepresentationDietaryCompass" target="_blank">🥗 Dietary Compass DataViz</a></h3>
+                    <p>Visualized dietary nutrition and health outcomes using Tableau and Python to create an intuitive, evidence-based representation of food group benefits and risks.</p>
+                </div>
+
+                <div class="project-card" data-tags="sql">
+                    <h3><a href="https://github.com/KaylynNguyen97/SephoraSQL" target="_blank">🛍️ Sephora SQL Analysis</a></h3>
+                    <p>Queried and analyzed Sephora product and review data using SQL to derive product trends, customer satisfaction patterns, and feature correlations.</p>
+                </div>
+
             </div>
         </div>
     </section>
