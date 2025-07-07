@@ -2,7 +2,6 @@ subject: Blogs
 listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
-  - title: Medium
+  - title: Medium "[Medium Profile: @ktnnguy](https://medium.com/@ktnnguy)"
     ref:
-      - "[Medium Profile: @ktnnguy](https://medium.com/@ktnnguy)"
       - "[From Click to Conversion: Building Smarter Marketing Pipelines with Modern Data Engineering](https://medium.com/@ktnnguy/from-click-to-conversion-building-smarter-marketing-pipelines-with-modern-data-engineering-4c3011b72a65)"
