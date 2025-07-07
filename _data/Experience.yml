@@ -2,21 +2,50 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Cashmere
+    role: Business Analyst, Practicum Project
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Detected and resolved data inconsistencies in 10+ years of SEC filings using Python and SQL
+      - Redesigned scoring system by analyzing correlations across 8K+ prospects to improve acquisition signals
+      - Built an ensemble learning model (Random Forest + Gradient Boosting) to classify firm acquisition likelihood
+    date: Aug. 2024 - Present
+
+  - title: Beautycounter
+    role: Digital Analyst, Data Science and Analytics
+    description:
+      - Automated Excel-to-Looker reporting migration, saving 8+ hours weekly
+      - Configured Google Tag Manager to enhance tracking and boost campaign insights by 12%
+      - Delivered actionable insights through ad-hoc analyses for business growth
+    date: May 2023 - Aug. 2023
+
+  - title: Blackbird PPC
+    role: Data Analytics Manager
+    description:
+      - Increased market-qualified leads by 34% through holdout tests in R
+      - Reallocated $50K in ad spend by analyzing underperforming campaigns, saving $10K+
+      - Created SQL-based full-funnel dashboards, reducing reporting discrepancies by 25%
+    date: Jul. 2021 - Mar. 2023
+
+  - title: Blackbird PPC
+    role: Associate Marketing Analyst
+    description:
+      - Managed paid media campaigns across Google Ads, Facebook, and LinkedIn, increasing ROAS by 20%
+      - Built SQL dashboards to monitor CAC and LTV, improving budget allocation by 15%
+      - Ran A/B tests improving CTR by 41% and saving $8K/month in CPC
+    date: Dec. 2020 - Jul. 2021
+
+  - title: QuinStreet, Inc.
+    role: Email Marketing Analyst Intern
+    description:
+      - Boosted subscriber engagement by 15% through SQL, Python, Tableau, and Excel analytics
+      - Automated Tableau reports for real-time tracking of key email metrics
+      - Built forecasting models in Excel, improving revenue prediction accuracy by 15%
+    date: Jun. 2020 – Oct. 2020
+
+  - title: MuteSix
+    role: Marketing Intern
+    description:
+      - Increased brand visibility by 25% through PR and lead generation strategies
+      - Authored case studies on SEM/SEO and curated 50+ social posts, driving 30% growth in organic traffic
+      - Delivered $5K+ in marketing training courses to enhance campaign performance
+    date: Oct. 2018 – Jun. 2019
