@@ -1,21 +1,21 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Kaylyn Nguyen
+description: Data Analyst
+site_title: 'Kaylyn Nguyen'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: Kaylyn Nguyen
+blog_url: https://medium.com/@ktnnguy
+#email:
+#keybase_username: 
+#twitter_username: 
+linkedin_url: https://www.linkedin.com/in/kaylyn-nguyen/
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
 
 # Google Analytics ID
-google_analytics: 
+# google_analytics: 
