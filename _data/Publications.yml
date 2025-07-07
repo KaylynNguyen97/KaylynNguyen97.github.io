@@ -1,11 +1,8 @@
-subject: Publications
+subject: Blogs
 listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
-  - title: Journal
-    ref: 
-      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
-  - title: Conference
+  - title: Medium
     ref:
-      - "[3] I. Lebedev, **M. Yankovich**, L. Wang, G. Segev, “[Post-training of deep bidirectional transformers for language understanding](https://scholar.google.com/),” *in Proc. 99th Annu. Meeting Assoc. Comput. Linguistics*, pp. xxx–xxx, 202x."
+      - "[Medium Profile: @ktnnguy](https://medium.com/@ktnnguy)"
+      - "[From Click to Conversion: Building Smarter Marketing Pipelines with Modern Data Engineering](https://medium.com/@ktnnguy/from-click-to-conversion-building-smarter-marketing-pipelines-with-modern-data-engineering-4c3011b72a65)"
