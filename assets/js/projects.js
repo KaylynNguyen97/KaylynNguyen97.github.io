@@ -10,7 +10,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/IMDB_Logo_2016.jpg',
+            image: 'assets/images/IMDB_Logo_2016.png',
             link: 'https://github.com/KaylynNguyen97/IMdbMachineLearning',
             title: 'IMDb Movie Success Prediction',
             demo: '',
