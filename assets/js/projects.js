@@ -23,7 +23,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/KaylynNguyen97/CustomerChurn',
             title: 'Customer Churn Prediction',
             demo: '',
-            technologies: ['Python', 'Random Forest', 'Logistic Regression'],
+            technologies: ['Python', 'Random Forest', 'Regression'],
             description: 'Developed classification models to identify churn-prone customers. Evaluated model performance using AUC, precision, and recall.',
             categories: ['featured', 'ml']
         },
