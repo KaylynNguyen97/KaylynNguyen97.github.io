@@ -3,19 +3,19 @@ listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
-    description: "Python, SQL, R, JavaScript, HTML, CSS, Excel (Advanced), Markdown"
+    description: - "Python, SQL, R, JavaScript, HTML, CSS, Excel (Advanced), Markdown"
 
   - title: Tools & Technologies
-    description: "Google Analytics, Google Analytics 4, Google Tag Manager, Tableau, Looker, R Shiny, Grow, dbdiagram.io, HubSpot, Git, Jupyter"
+    description: - "Google Analytics, Google Analytics 4, Google Tag Manager, Tableau, Looker, R Shiny, Grow, dbdiagram.io, HubSpot, Git, Jupyter"
 
   - title: Data Science & Machine Learning
-    description: "scikit-learn, pandas, NumPy, seaborn, matplotlib, ensemble models (Random Forest, Gradient Boosting), A/B testing, predictive modeling"
+    description: - "scikit-learn, pandas, NumPy, seaborn, matplotlib, ensemble models (Random Forest, Gradient Boosting), A/B testing, predictive modeling"
 
   - title: Cloud & Big Data
-    description: "BigQuery, Cloud Computing (coursework), SQL-based ETL pipelines"
+    description: - "BigQuery, Cloud Computing (coursework), SQL-based ETL pipelines"
 
   - title: Visualization & Reporting
-    description: "Tableau, Looker, Grow, R Shiny, Excel, custom dashboards, data storytelling"
+    description: - "Tableau, Looker, Grow, R Shiny, Excel, custom dashboards, data storytelling"
 
   - title: Marketing Analytics
-    description: "UTM tracking, ROAS optimization, CAC & LTV analysis, marginal efficiency testing, segmentation, campaign performance monitoring"
+    description: - "UTM tracking, ROAS optimization, CAC & LTV analysis, marginal efficiency testing, segmentation, campaign performance monitoring"
