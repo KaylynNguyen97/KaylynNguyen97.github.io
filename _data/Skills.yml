@@ -4,11 +4,11 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: 
-     - "Python, SQL, R, JavaScript, HTML, CSS, Excel (Advanced), Markdown"
+     - "Python, SQL, R, Excel (Advanced), Markdown"
 
   - title: Tools & Technologies
     description: 
-     - "Google Analytics, Google Analytics 4, Google Tag Manager, Tableau, Looker, R Shiny, Grow, dbdiagram.io, HubSpot, Git, Jupyter"
+     - "Google Analytics, Google Analytics 4, Google Tag Manager, Tableau, Looker, R Shiny, Grow, Jupyter"
 
   - title: Data Science & Machine Learning
     description: 
@@ -16,7 +16,7 @@ contents:
 
   - title: Cloud & Big Data
     description: 
-     - "BigQuery, Cloud Computing (coursework), SQL-based ETL pipelines"
+     - "BigQuery, Cloud Computing, SQL-based ETL pipelines"
 
   - title: Visualization & Reporting
     description: 
