@@ -1,1 +1,7 @@
-
+subject: About Me
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: About Me
+    description:
+      - I'm a data-driven problem solver with a background in marketing analytics and business strategy. With hands-on experience in SQL, Python, and data visualization tools, I specialize in uncovering insights that drive smarter decision-making. Currently pursuing my MS in Business Analytics at UC Davis, I’m passionate about using data to bridge the gap between marketing and impact.
