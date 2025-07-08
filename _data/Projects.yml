@@ -3,6 +3,7 @@ listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Yelp Sentiment Analysis ([GitHub](https://github.com/KaylynNguyen97/YelpSentimentAnalysis))"
+    image: "/assets/img/yelp-red-1920.jpg"
     description: 
       - Performed sentiment classification using TF-IDF, Bag of Words, and n-Grams
       - Built and evaluated models including Logistic Regression, SVM, and Random Forest
@@ -10,6 +11,7 @@ contents:
     #image: "![](https://i.ibb.co/Sr77y7h/yelp-sentiment.webp)"
 
   - title: "IMDB Machine Learning ([GitHub](https://github.com/KaylynNguyen97/IMdbMachineLearning))"
+    image: "/assets/img/imdb.jpg"
     description: 
       - Applied classification algorithms to predict movie success based on metadata
       - Conducted feature engineering and model tuning to improve performance
@@ -17,6 +19,7 @@ contents:
     #image: "![](https://i.ibb.co/m4H7qCP/imdb-ml.webp)"
 
   - title: "Customer Churn Prediction ([GitHub](https://github.com/KaylynNguyen97/CustomerChurn))"
+    image: "/assets/img/online_customer_attraction_1_7d1a5bc78b.jpg"
     description: 
       - Built classification models to predict bank customer churn
       - Evaluated model performance using ROC AUC, precision, recall, and confusion matrix
@@ -24,6 +27,7 @@ contents:
     #image: "![](https://i.ibb.co/HDxCjBm/churn-model.webp)"
 
   - title: "Data Design Representation: Dietary Compass ([GitHub](https://github.com/KaylynNguyen97/DataDesignRepresentationDietaryCompass))"
+    image: "/assets/img/healthy-eating-balanced-diet-concept-vector.jpg"
     description: 
       - Visualized complex dietary data using effective design principles
       - Created intuitive charts and infographics to communicate insights clearly
@@ -31,6 +35,7 @@ contents:
     #image: "![](https://i.ibb.co/JmxG47F/dietary-visual.webp)"
 
   - title: "Sephora SQL Analysis ([GitHub](https://github.com/KaylynNguyen97/SephoraSQL))"
+    image: "/assets/img/sephora-logo-in-black-5e3190d84gxhuatx.jpg"
     description: 
       - Conducted SQL-based exploratory analysis on Sephora product reviews and sales
       - Created queries to derive customer trends, product performance, and pricing insights
