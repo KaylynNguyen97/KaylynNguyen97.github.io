@@ -24,10 +24,10 @@ contents:
     description: 
       - Visualized complex dietary data using effective design principles
       - Created intuitive charts and infographics to communicate insights clearly
-      - "Technology Used: Python, matplotlib, seaborn, Tableau"
+      - "Technology Used: Python, matplotlib, seaborn"
 
   - title: "Sephora SQL Analysis ([GitHub](https://github.com/KaylynNguyen97/SephoraSQL))"
     description: 
       - Conducted SQL-based exploratory analysis on Sephora product reviews and sales
       - Created queries to derive customer trends, product performance, and pricing insights
-      - "Technology Used: SQL, dbdiagram.io, Excel"
+      - "Technology Used: SQL, Excel, R"
